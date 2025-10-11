@@ -90,7 +90,7 @@ python -m streamlit run demo.py
 
 ## 📸 Captura de tela (opcional)
 
-*(adicione aqui uma imagem do dashboard)*
+*<img width="1903" height="947" alt="image" src="https://github.com/user-attachments/assets/f6081b5b-029f-40b4-b848-6d8aef1421c9" />*
 
 ```markdown
 ![Dashboard de Vendas](screenshot.png)
