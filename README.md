@@ -1,7 +1,3 @@
-Perfeito 👍 — aqui está um exemplo de **README.md** bem estruturado para o seu projeto Streamlit:
-
----
-
 # 📊 Dashboard de Vendas — Streamlit
 
 Este projeto é um **dashboard interativo de vendas** desenvolvido em **Python** com **Streamlit** e **Pandas**.
@@ -117,7 +113,7 @@ python -m streamlit run demo.py
 ## 🧑‍💻 Autor
 
 **Erinaldo Ferreira**
-📧 [Seu email aqui]
+📧 [erinaldopaladino@gmail.com]
 🌐 [https://github.com/ErinaldoFerreira](https://github.com/ErinaldoFerreira)
 
 
