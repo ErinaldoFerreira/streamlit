@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Dashboard", page_icon=" ", layout="wide")
+st.set_page_config(page_title="Dashboard | Vendas", page_icon= "📊", layout="wide")
 
 #-----Dados ------
 df = pd.read_csv("sales_data.csv")
