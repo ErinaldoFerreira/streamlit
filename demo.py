@@ -1,10 +1,14 @@
 import pandas as pd
 import streamlit as st
 
+st.set_page_config(page_title="Dashboard", page_icon=" ", layout="wide")
+
+#-----Dados ------
 df = pd.read_csv("sales_data.csv")
 df["Date_Sold"] = pd.to_datetime(df["Date_Sold"], errors="coerce")
 df = df.dropna(subset=["Date_Sold"])
 
+#-----Filtros------
 st.sidebar.header("Filtros")
 cats = sorted(df["Category"].dropna().unique())
 sel_cat = st.sidebar.multiselect("Categoria", cats, default=cats[:2])
