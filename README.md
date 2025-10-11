@@ -1,4 +1,5 @@
 # 📊 Dashboard de Vendas — Streamlit
+[link](https://dashboard-vendas-aula.streamlit.app/)
 
 Este projeto é um **dashboard interativo de vendas** desenvolvido em **Python** com **Streamlit** e **Pandas**.
 Ele permite visualizar métricas de receita, quantidade vendida, evolução ao longo do tempo e produtos mais vendidos — tudo a partir de um arquivo CSV.
